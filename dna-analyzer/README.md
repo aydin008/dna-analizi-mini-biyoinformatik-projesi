@@ -18,4 +18,4 @@ Ham DNA dizilerini analiz eden, mRNA dizisine dönüştüren, PCR optimizasyonu 
 
 1. Projeyi bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/dna-sequence-analyzer.git](https://github.com/KULLANICI_ADIN/dna-sequence-analyzer.git)
+   git clone [https://github.com/aydin008/dna-analyzer.git](https://github.com/aydin008/dna-analyzer.git)
